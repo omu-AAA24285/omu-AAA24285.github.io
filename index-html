@@ -8,16 +8,9 @@
 </head>
 <body>
   <h1>おすすめの食べ物</h1>
-  <p>これはGitHub Pagesで公開するテストページです。</p>
-
-  <nav>
-    <a href="second.html">second.htmlへ</a>
-  </nav>
-
-  <figure>
-    <img src="https://stock.adobe.com/jp/images/sushi-japanese-food/306646003" alt="サンプル画像" width="360">
-    <figcaption>画像のテスト表示</figcaption>
-  </figure>
+  <img src="https://stock.adobe.com/jp/images/sushi-japanese-food/306646003" alt="サンプル画像" width="360">
+  <p>私のおすすめは寿司です。</p>
+  <a href="second.html">second.htmlへ</a>
 </body>
 </html>
 

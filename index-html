@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <title>おすすめの食べ物</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>body{font-family:system-ui, sans-serif; margin:2rem; line-height:1.7}</style>
+</head>
+<body>
+  <h1>おすすめの食べ物</h1>
+  <p>これはGitHub Pagesで公開するテストページです。</p>
+
+  <nav>
+    <a href="second.html">second.htmlへ</a>
+  </nav>
+
+  <figure>
+    <img src="https://stock.adobe.com/jp/images/sushi-japanese-food/306646003" alt="サンプル画像" width="360">
+    <figcaption>画像のテスト表示</figcaption>
+  </figure>
+</body>
+</html>
+
